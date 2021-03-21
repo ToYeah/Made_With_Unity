@@ -11,6 +11,8 @@
 
 ### Tools
 * C#
+* UniRx
+* DoTween
 * Unity
 * GravitDesigner
 
