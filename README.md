@@ -1,5 +1,3 @@
-# Made_With_Unity
-
 ## HexPuzzleApp
 
 ![feaw](https://user-images.githubusercontent.com/62199197/111897104-4b9d6880-8a61-11eb-97b8-4170d2de36ed.png)
